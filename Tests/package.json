@@ -2,7 +2,7 @@
   "name": "tests",
   "version": "1.0.0",
   "description": "Tests con Jest para ejercicios",
-  "main": "index.js",
+  "main": "ejer1.test.js",
   "scripts": {
     "test": "jest"
   },
